@@ -1,0 +1,18 @@
+[
+    
+    {
+        "vehicleClass" : 3,
+        "trafficCount" : 2
+    },
+
+    {
+        "vehicleClass" : 2,
+        "trafficCount" : 4
+    },
+
+    {
+        "vehicleClass" : 10,
+        "trafficCount" : 1
+    }
+
+]

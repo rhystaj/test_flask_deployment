@@ -1,0 +1,9 @@
+python -m traffic_data_server_tests.tests.mongo_query_utils_tests 
+python -m traffic_data_server_tests.tests.class_counts_resource_tests
+python -m traffic_data_server_tests.tests.traffic_reading_tests
+python -m traffic_data_server_tests.tests.readings_submission_resource_tests
+python -m traffic_data_server_tests.tests.station_summary_resource_tests
+python -m traffic_data_server_tests.tests.road_position_tests
+python -m traffic_data_server_tests.tests.traffic_counts_resource_tests
+python -m traffic_data_server_tests.tests.traffic_weights_resource_tests
+python -m traffic_data_server_tests.tests.station_csv_data_resource_tests
